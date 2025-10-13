@@ -41,7 +41,9 @@ The result will be displayed:
 The score updates after every round.
 
 📁 Folder Structure
+
 Rock-Paper-Scissors/
+
 │
 ├── index.html       # Main HTML file
 
@@ -58,4 +60,5 @@ Include multiplayer mode 👥
 Add animation for winning moves 🏅
 
 Store high scores using localStorage 💾
+
 
