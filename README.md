@@ -75,7 +75,8 @@ Store high scores using localStorage 💾
 
 --------------------
 demo:
-<!-- Failed to upload "rock_paper_sessior_demo.mp4" -->
+"C:\Users\Soniya Ukey\Videos\Screen Recordings\rock_paper_sessior_demo.mp4"
+
 
 
 
