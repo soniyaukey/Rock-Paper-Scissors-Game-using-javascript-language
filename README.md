@@ -3,6 +3,7 @@
 
 A fun and interactive Rock-Paper-Scissors game built using HTML, CSS, and JavaScript.
 Play against the computer and test your luck!
+
 ---------------------
 
 🚀 Features
@@ -16,6 +17,7 @@ Play against the computer and test your luck!
 🏆 Real-time score updates
 
 🎨 Attractive and responsive UI design
+
 --------------------------------------
 
 🧩 Technologies Used
@@ -25,6 +27,7 @@ HTML5 – For the basic structure
 CSS3 – For styling and layout
 
 JavaScript (ES6) – For game logic and interactivity
+
 -----------------------------------
 
 ⚙️ How to Play
@@ -42,6 +45,8 @@ The result will be displayed:
 ✂️ Scissors beats Paper
 
 The score updates after every round.
+
+
 ------------------------------
 
 📁 Folder Structure
@@ -54,6 +59,8 @@ Rock-Paper-Scissors/
 ├── style.css        # Styling file
 
 └── script.js        # JavaScript logic
+
+
 ---------------------------------------------
 
 💡 Future Enhancements
