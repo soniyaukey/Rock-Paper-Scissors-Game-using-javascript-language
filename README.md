@@ -73,5 +73,10 @@ Add animation for winning moves 🏅
 
 Store high scores using localStorage 💾
 
+--------------------
+demo:
+<!-- Failed to upload "rock_paper_sessior_demo.mp4" -->
+
+
 
 
